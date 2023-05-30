@@ -1,0 +1,1 @@
+ping https://www.facebook.com/ -t
